@@ -1,6 +1,6 @@
 import Head from "next/head";
 import { Background } from "@/components/background";
-import { StylesWrapper } from "./index.styles";
+import { StylesWrapper } from "../styles/homepage.styles";
 import { Navbar } from "@/components/navbar";
 import { Footer } from "@/components/footer";
 import { MainContent } from "@/components/main-content";
